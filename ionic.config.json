@@ -1,0 +1,7 @@
+{
+  "name": "mysecuritytouch-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
